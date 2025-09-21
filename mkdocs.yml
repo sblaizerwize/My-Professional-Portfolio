@@ -1,6 +1,7 @@
-site_name: ""
-site_description: My Professional Portoflio 
+site_name: Salomon's Portfolio
+site_description: Showcasing projects I have developed over recent years. 
 site_author: Salomon Marquez
+site_url: "https://sblaizerwize.github.io/My-Professional-Portfolio/"
 strict: true
 
 repo_name: sblaizerwize/My-Professional-Portfolio
@@ -26,11 +27,13 @@ nav:
 
 theme:
   name: "material"
+  icon:
+    logo: fontawesome/solid/dna
   toc:
     max_level: 3  # Show H1, H2, H3, and H4 levels
   palette:
     - media: "(prefers-color-scheme)"
-      primary: custom
+      primary: custom 
       accent: black
       toggle:
         icon: material/brightness-auto
