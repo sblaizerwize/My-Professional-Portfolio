@@ -67,6 +67,7 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css
 
 extra:
   social:

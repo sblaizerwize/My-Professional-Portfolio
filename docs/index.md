@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Welcome to My Portfolio
+# Welcome to My Portfolio :octicons-briefcase-16:
 
 Hi, my name is Salomon Marquez. I’m a versatile professional with a career that has evolved across multiple domains. From my early role as a Research Associate in academia to my position as a Senior Technical Writer in the software industry, I’ve embraced diverse challenges and cultivated a broad skill set to adapt to new environments.
 
@@ -14,12 +14,14 @@ Currently, I’m digging into Machine Learning, with a focus on Bioinformatics. 
 
 
 ---
-# **Education**
+# **Education** :material-book-education-outline:
+
 - **Online Bioinformatics and Biostatistics Master's Degree (2025 – )**  
 University of Barcelona (UB) and Universitat Oberta of Catalunya (UOC)
 
 - **Ph.D. in Electronics Engineering (2011-2016)**  
-Catalan Institute of Nanoscience and Nanotechnology, Autonomous University of Barcelona, Spain 
+Catalan Institute of Nanoscience and Nanotechnology, Autonomous University of Barcelona, Spain  
+[Array of microfluidic beam resonators for mass sensing applications : design, fabrication and testing](https://ddd.uab.cat/record/168512?ln=en)
 
 - **M.S. in Electrical Engineering (2008-2010)**  
 Center for Research and Advanced Studies of the National Polytechnic Institute (CINVESTAV-IPN), Mexico 
@@ -28,11 +30,13 @@ Center for Research and Advanced Studies of the National Polytechnic Institute (
 West Virginia University, Morgantown, WV  
 Courses: Digital Image Processing, Antennas, Information Theory, Neuromorphic Analog VLSI 
 
-- **B.S. in Communications and Electronics Engineering (2002-2008)**
+- **B.S. in Communications and Electronics Engineering (2002-2008)**  
 University of Guanajuato, Mexico 
 
 ---
-# **Certifications**
+# **Certifications** :material-certificate-outline:
+- **Hello Nextflow Training Week** by Nextflow.  
+[Certificate's link](https://drive.google.com/file/d/1qMXgoeaaHTE-Q2DN-KU0vzqIuoLlDfg5/view), June 2025.
 - **Machine Learning Specialization** by Coursera (Stanford University & DeepLearning.AI).  
 [Credential ID: `IDURPJ8T83YU`](https://www.coursera.org/account/accomplishments/specialization/IDURPJ8T83YU), Dec 2024.
 - **Genómica en la Práctica Clínica y en la Investigación Biomédica** by CIMA University of Navarra.  
@@ -59,7 +63,7 @@ University of Guanajuato, Mexico
 [Credential ID: `GJQ6XA9K`](https://www.udacity.com/certificate/GJQ6XA9K), Jul 2021.
 
 ---
-# **Open Source Contributions**
+# **Open Source Contributions** :fontawesome-solid-hands-helping:
 
 - **TimeCopilot: the GenAI Forecasting Agent**  
 Supporting the [documentation](https://github.com/AzulGarza/timecopilot) of the project.
@@ -74,7 +78,7 @@ GitWize is an AWS cloud-based application that allows you to extract valuable in
 
 
 ---
-# **Mentorship**
+# **Mentorship** :fontawesome-solid-chalkboard-teacher:
 - Bachelor of Biomedical Engineering of University of Guanajuato, Mexico (2020).  
 Thesis: [“Dispositivo microfluídico para enfoque hidrodinámico de partículas”](https://drive.google.com/file/d/1hq44LZb_YqZEbcib7q5pcVN2Ez5Akwu3/view) by Rocio Lizbeth Olmos Ramírez
 - Bachelor of Biomedical Engineering of University of Guanajuato, Mexico (2019).  
@@ -82,7 +86,7 @@ Thesis: [“Caracterización y Estudio de la Biocompatibilidad de Dispositivos M
 
 
 ---
-# **Relevant Publications**
+# **Relevant Publications** :fontawesome-regular-newspaper:
 - Liliana Badillo and Salomon Marquez,  
 [“A Journey Through Kaggle Text Data Competitions From 2021 to 2023”](https://www.kaggle.com/code/sophieb/a-journey-through-text-data-competitions?scriptVersionId=136771013) written for the 2023 Kaggle AI Report Competition.  
 (2023)
