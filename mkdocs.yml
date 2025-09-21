@@ -14,6 +14,7 @@ nav:
       - bioinformatics/clinical-factors-associated-with-survival-in-gastrointestinal-cancer.md
   - Machine Learning:
       - machine-learning/classification-splice-junction.ipynb
+      - machine-learning/peptide–mhci-interaction-prediction.ipynb
       - machine-learning/used-car-predictions-for-kagglex-competition.ipynb
   - Natural Language Processing: 
       - natural-language-processing/a-journey-through-text-data-competitions.ipynb

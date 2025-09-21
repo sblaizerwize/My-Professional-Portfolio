@@ -5,13 +5,16 @@ by Salomon Marquez
 01/08/2025 
 
 
-This project provides a cloud-based implementation of RNA-seq workflows for training and experimentation purposes 📚. It combines content from the official [Nextflow for RNA-seq training course](https://training.nextflow.io/latest/nf4_science/rnaseq/) with real-world RNA-seq data from the [DIY Transcriptomics course](https://diytranscriptomics.com/), executed entirely on AWS infrastructure.
+This project provides a cloud-based implementation of RNA-seq workflows for training and experimentation purposes. It combines content from the official [Nextflow for RNA-seq training course](https://training.nextflow.io/latest/nf4_science/rnaseq/) with real-world RNA-seq data from the [DIY Transcriptomics course](https://diytranscriptomics.com/), executed entirely on AWS infrastructure.
 
 The goal is to demonstrate how to run scalable and reproducible RNA-seq pipelines using Nextflow, while leveraging AWS compute resources for performance, flexibility, and cost optimization.
 
-We would like to thank AWS and the University of Navarra for providing cloud resources (1,000 AWS credits) to support this project 💰.
+We would like to thank AWS and the University of Navarra for providing cloud resources (1,000 AWS credits) to support this project.
 
-⚡ Click [here](https://github.com/sblaizerwize/nextflow-for-rnaseq-training/tree/main) to view this project on GitHub. 
+Visit the :simple-github: [repository of the project](https://github.com/sblaizerwize/nextflow-for-rnaseq-training/tree/main) to check out:  
+- :simple-nextflow: Nextflow Pipelines  
+- :octicons-report-24: Reports  
+- :fontawesome-brands-aws: Resources
 
 ---
 
@@ -38,7 +41,7 @@ The content of this [project](https://github.com/sblaizerwize/nextflow-for-rnase
 ---
 
 ## RNA-seq Pipelines: Results
-This is a summary of results 🎯 from RNA-seq pipelines run with Nextflow on AWS Batch.
+This is a summary of results from RNA-seq pipelines run with Nextflow on AWS Batch.
 
 ### **PIPELINE 1: nextflow-for-rnaseq-aws pipeline**
 - [MULTIQC Report](../reports/nextflow-for-rnaseq-aws/all_single-end.html)
