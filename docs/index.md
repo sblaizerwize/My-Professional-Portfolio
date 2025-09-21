@@ -16,7 +16,7 @@ Currently, I’m digging into Machine Learning, with a focus on Bioinformatics. 
 ---
 # **Education** :material-book-education-outline:
 
-- **Online Bioinformatics and Biostatistics Master's Degree (2025 – )**  
+- **Bioinformatics and Biostatistics Master's Degree (2025 – )**  
 University of Barcelona (UB) and Universitat Oberta of Catalunya (UOC)
 
 - **Ph.D. in Electronics Engineering (2011-2016)**  
