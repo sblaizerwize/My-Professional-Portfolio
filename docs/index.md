@@ -4,20 +4,19 @@ hide:
   - navigation
 ---
 
-# Welcome to My Portfolio :octicons-briefcase-16:
+# Welcome to my Portfolio :octicons-briefcase-16:
 
-Hi, my name is Salomon Marquez. I’m a versatile professional with a career that has evolved across multiple domains. From my early role as a Research Associate in academia to my position as a Senior Technical Writer in the software industry, I’ve embraced diverse challenges and cultivated a broad skill set to adapt to new environments.
+Hi, I’m Salomon. I’m an applied data and machine learning professional working at the intersection of bioinformatics, health research, and software engineering.
 
-With over 10 years of experience in academic writing and 5+ years in technical writing, I’ve developed the ability to translate complex concepts into clear, accessible information for diverse audiences. As a Senior Technical Writer, I’ve taken on roles as a mentor, technical lead, consultant, and open-source contributor, focusing on fostering collaboration with stakeholders and cross-functional teams.
+I bring over a decade of experience in academic research and technical communication, combined with hands-on work in data analysis, machine learning, and bioinformatics. My background spans academia and industry, where I’ve led and contributed to projects involving statistical modeling, transcriptomic analysis, and the development of reproducible data pipelines.
 
-Currently, I’m digging into Machine Learning, with a focus on Bioinformatics. This field connects my technical background with my passion for leveraging data-driven insights to address challenges in health and biology.
-
+My current work focuses on applying machine learning and data-driven methods to bioinformatics and health research, with an emphasis on generating actionable insights from real-world and biomedical data.
 
 ---
 # **Education** :material-book-education-outline:
 
-- **Bioinformatics and Biostatistics Master's Degree (2025 – )**  
-University of Barcelona (UB) and Universitat Oberta of Catalunya (UOC)
+- **Bioinformatics and Biostatistics Master's Degree (2025 – 2026)**  
+University of Barcelona (UB) and Universitat Oberta of Catalunya (UOC). [Integrative Analysis of Differential Gene Expression, Transcript Usage, and RNA Secondary Structure in Early- and Late-Onset Colorectal Cancer](bioinformatics/integrative-analysis-dge-dtu-rss-crc/reports/project-progress/tfm-bioinformatics-semv-manuscript.pdf)
 
 - **Ph.D. in Electronics Engineering (2011-2016)**  
 Catalan Institute of Nanoscience and Nanotechnology, Autonomous University of Barcelona, Spain  

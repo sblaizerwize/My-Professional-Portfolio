@@ -4,18 +4,11 @@ hide:
   - navigation
 ---
 
-# Welcome to My Technical Writer's Portfolio
+# Welcome to my Technical Writer's Portfolio
 
-I am a highly accomplished Senior Technical Writer with a Ph.D. in Electronics Engineering. I have more than 10 years of experience in academic writing and over 5 years in technical writing for the software industry. My technical background allows me to explain complex concepts in a more understandable way for different audiences.
+As a Senior Technical Writer, I’ve taken on roles as a mentor, technical lead, consultant, and open-source contributor, focusing on fostering collaboration with stakeholders and cross-functional teams. With over 10 years of experience in academic writing and 4+ years in technical writing, I’ve developed the ability to translate complex concepts into clear, accessible information for diverse audiences. 
 
-As a Senior Technical Writer, I have played multiple roles as a consultant, technical lead, mentor, hiring interviewer, and open-source contributor. I have collaborated on a wide range of projects related to dating, financial technologies, and video streaming platforms, producing various types of documentation such as API documentation, architecture guides, developer guides, onboarding guides, user manuals, concept guides, glossaries, and READMEs. I thrive on working on challenging projects that allow me to learn new technologies and establish collaborative work strategies among stakeholders, developers, and other technical writers.
-
-I am passionate about cloud computing, AI-assisted tools, and data engineering, and always stay up-to-date with the latest trends and advancements in these fields.
-
-Visit [my documentation's portfolio](https://sblaizerwize.github.io/posts/) 📚
-
----
-## **Skills**
+Check out my [documentation samples](https://sblaizerwize.github.io/posts/) :simple-bookstack:
 
 | Core Skills                | Content                              | Tools               |
 | :------------------------- | :----------------------------------- | :------------------ |
@@ -30,9 +23,22 @@ Visit [my documentation's portfolio](https://sblaizerwize.github.io/posts/) 📚
 |                            | Getting started and onboarding guides | Text editors      |
 |                            | Glossaries                           | MS Office           |
 
+---
+# **Open Source Contributions** :fontawesome-solid-hands-helping:
+
+- **TimeCopilot: the GenAI Forecasting Agent**  
+Supporting the [documentation](https://github.com/AzulGarza/timecopilot) of the project.
+- **Deploy Airbyte on Azure | Airbyte**  
+Created a [guide to deploying Airbyte on a Microsoft Azure VM](https://github.com/airbytehq/airbyte/pull/18331).
+- **WizelineLabs | Wizeline**  
+Created a [repository](https://github.com/WizelineLabs/template) containing documentation and licenses that served as a template to generate new open source projects at Wizeline. 
+- **GitWize | Wizeline**  
+GitWize is an AWS cloud-based application that allows you to extract valuable insights and metrics from a single GitHub repository using git commit logs. I led the documentation strategy of this project. 
+    - [GitWize Frontend](https://github.com/WizelineLabs/gitwize-fe)
+    - [GitWize Backend](https://github.com/WizelineLabs/gitwize-be) 
 
 ---
-## **Projects**
+# **Projects** :material-folder-star:
 - **Video streaming services**
     Integration of a streaming platform into STB devices. I created how-to guides that helped newcomers configure their devices and routers. I also supported the quality testing team and carried out project management tasks. The development team worked with JavaScript, RESTful APIs, and AWS Athena.
 
@@ -43,30 +49,19 @@ Visit [my documentation's portfolio](https://sblaizerwize.github.io/posts/) 📚
     Integration of BlueSnap, Stripe, and Apple Pay payment processors with customer services. I created sequence diagrams and API documentation that helped developers to understand the flow of payment transactions for payment processors, including Stripe, BlueSnap, and Apple Pay.
 
 ---
-## **Open Source**
-I contributed to the Open Source Initiative (OSI) at Wizeline by conducting the followings tasks:
+# **Presentations** :material-presentation-play:
+### *TW Academy at Wizeline (Spring 2022)* 
+- Lecturer of the session How to Write Software Architectures. I created and delivered the material for this session in a video format for on-demand studying. 
+- Mentored two students 
 
-- Analyzed existing OSIs from third-party companies to define the OSI at Wizeline
-- Helped on the design of the OSI guidelines at Wizeline by defining and documenting the main contribution pathways: getting to know OS, using OS, contributing to OS, and creating a new OS project. 
-- Supported the launching of the [first open source project at Wizeline](https://github.com/WizelineLabs/gitwize-fe) on the documentation side by creating the README files of the project’s repositories
-- Created a [repository](https://github.com/WizelineLabs/template) containing documentation and licenses that served as a template to generate new open source projects at Wizeline
-- Created a Kanban board to organize, prioritize and keep tracking of tasks on the documentation side. This strategy fostered the collaboration and contribution of a team of three TWs to the Open Source initiative
+### *TW Academy at Wizeline (May 2021)* 
+Mentored one student. Some responsibilities included: review assignments, have weekly one-on-one sessions to provide training and best practices, assess the student’s cultural fit, and complete the student's rubric.
 
-
----
-## **Presentations**
-- *TW Academy at Wizeline (Spring 2022)* 
-    - Lecturer of the session How to Write Software Architectures. I created and delivered the material for this session in a video format for on-demand studying. 
-    - Mentored two students 
-
-- *TW Academy at Wizeline (May 2021)* \
-    Mentored one student. Some responsibilities included: review assignments, have weekly one-on-one sessions to provide training and best practices, assess the student’s cultural fit, and complete the student's rubric.
-
-- *TW Academy at Wizeline (March 2020)* \
-    Lecturer of the session How to Write Software Architectures 
+### *TW Academy at Wizeline (March 2020)*
+Lecturer of the session How to Write Software Architectures 
 
 ---
-## **Leadership Initiatives at Wizeline**
+# **Leadership Initiatives at Wizeline** :fontawesome-solid-chalkboard-teacher:
 
 - I led a study group of 16 technical writers for three months to pursue the AWS Cloud Practitioner Certification. Some activities included: define and organize study materials, coordinate study sessions, create questions that fostered discussions, and give demos.
 
