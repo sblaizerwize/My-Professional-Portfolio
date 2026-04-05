@@ -18,23 +18,23 @@ Lastly, I'm eligible to work internationally across Europe and Latin America —
 # **Education** :material-book-education-outline:
 
 - **Bioinformatics and Biostatistics Master's Degree (2025 – 2026)**  
-University of Barcelona (UB) and Universitat Oberta of Catalunya (UOC).
+University of Barcelona (UB) and Universitat Oberta of Catalunya (UOC)  
 [*Integrative Analysis of Differential Gene Expression, Transcript Usage, and RNA Secondary Structure in Early- and Late-Onset Colorectal Cancer*](bioinformatics/integrative-analysis-dge-dtu-rss-crc/reports/project-progress/tfm-bioinformatics-semv-manuscript.pdf)
 
 - **Ph.D. in Electronics Engineering (2011-2016)**  
-Catalan Institute of Nanoscience and Nanotechnology, Autonomous University of Barcelona, Spain
+Catalan Institute of Nanoscience and Nanotechnology, Autonomous University of Barcelona, Spain  
 [*Array of microfluidic beam resonators for mass sensing applications : design, fabrication and testing*](https://ddd.uab.cat/record/168512?ln=en)
 
 - **M.S. in Electrical Engineering (2008-2010)**  
-Center for Research and Advanced Studies of the National Polytechnic Institute (CINVESTAV-IPN), Mexico
+Center for Research and Advanced Studies of the National Polytechnic Institute (CINVESTAV-IPN), Mexico  
 *Characterization of Thermal Lesions Induced by Ablation Treatments Using B-Mode Ultrasound Imaging*
 
 - **Student Exchange (Spring 2007)**  
 West Virginia University, Morgantown, WV  
-Courses: Digital Image Processing, Antennas, Information Theory, Neuromorphic Analog VLSI 
+Courses: Digital Image Processing, Antennas, Information Theory, and Neuromorphic Analog VLSI 
 
 - **B.S. in Communications and Electronics Engineering (2002-2008)**  
-University of Guanajuato, Mexico
+University of Guanajuato, Mexico  
 *Design and Development of a USB-Based Brain Computer Interface for Sensorimotor Signal Analysis*
 
 ---
@@ -69,7 +69,7 @@ University of Guanajuato, Mexico
 ---
 # **Open Source Contributions** :fontawesome-solid-hands-helping:
 
-- **nf-core/proteinfold**
+- **nf-core/proteinfold**  
 This [pipeline](https://nf-co.re/proteinfold/2.0.0) automates the prediction of 3D protein structures from sequence data, integrating methods such as AlphaFold, ColabFold, and ESMFold. My [contribution](https://github.com/nf-core/proteinfold/pull/560) integrated `.yaml` files for Boltz and Alphafold2 subprocesses. 
 - **TimeCopilot: the GenAI Forecasting Agent**  
 Supported the [documentation](https://github.com/AzulGarza/timecopilot) of the project.
