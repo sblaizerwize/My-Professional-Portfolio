@@ -15,6 +15,7 @@ nav:
       - bioinformatics/nextflow-for-rnaseq-aws.md
       - bioinformatics/clinical-factors-associated-with-survival-in-gastrointestinal-cancer.md
   - Machine Learning:
+      - machine-learning/chest-x-ray-classification-normal-vs-pleural-effusion.ipynb
       - machine-learning/classification-splice-junction.ipynb
       - machine-learning/peptide–mhci-interaction-prediction.ipynb
       - machine-learning/used-car-predictions-for-kagglex-competition.ipynb

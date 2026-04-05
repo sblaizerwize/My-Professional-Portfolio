@@ -6,31 +6,36 @@ hide:
 
 # Welcome to my Portfolio :octicons-briefcase-16:
 
-Hi, I’m Salomon. I’m an applied data and machine learning professional working at the intersection of bioinformatics, health research, and software engineering.
+Hi, I’m Salomon. I apply machine learning and data-driven methodologies to bioinformatics and health research.
 
-I bring over a decade of experience in academic research and technical communication, combined with hands-on work in data analysis, machine learning, and bioinformatics. My background spans academia and industry, where I’ve led and contributed to projects involving statistical modeling, transcriptomic analysis, and the development of reproducible data pipelines.
+My career sits at the intersection of three domains: bioinformatics, biosensing, and biomedicine. This path integrates the scientific rigor developed during my postdoctoral research with substantial experience in the IT industry. As a result, I approach research and technical development with a service-oriented mindset, engaging stakeholders, defining complex requirements, and translating challenging biological questions into concrete, reproducible solutions.
 
-My current work focuses on applying machine learning and data-driven methods to bioinformatics and health research, with an emphasis on generating actionable insights from real-world and biomedical data.
+As a Senior Technical Writer, I have also worked as a mentor, technical lead, consultant, and open-source contributor. Across these roles, I focus on enabling collaboration within cross-functional teams and aligning technical outputs with stakeholder needs. With over 10 years of academic writing experience and more than four years in technical writing, I specialize in translating complex scientific and computational concepts into clear, structured, and accessible documentation for diverse audiences.
+
+Lastly, I'm eligible to work internationally across Europe and Latin America — no sponsorship required.
 
 ---
 # **Education** :material-book-education-outline:
 
 - **Bioinformatics and Biostatistics Master's Degree (2025 – 2026)**  
-University of Barcelona (UB) and Universitat Oberta of Catalunya (UOC). [Integrative Analysis of Differential Gene Expression, Transcript Usage, and RNA Secondary Structure in Early- and Late-Onset Colorectal Cancer](bioinformatics/integrative-analysis-dge-dtu-rss-crc/reports/project-progress/tfm-bioinformatics-semv-manuscript.pdf)
+University of Barcelona (UB) and Universitat Oberta of Catalunya (UOC). \
+[*Integrative Analysis of Differential Gene Expression, Transcript Usage, and RNA Secondary Structure in Early- and Late-Onset Colorectal Cancer*](bioinformatics/integrative-analysis-dge-dtu-rss-crc/reports/project-progress/tfm-bioinformatics-semv-manuscript.pdf)
 
 - **Ph.D. in Electronics Engineering (2011-2016)**  
-Catalan Institute of Nanoscience and Nanotechnology, Autonomous University of Barcelona, Spain  
-[Array of microfluidic beam resonators for mass sensing applications : design, fabrication and testing](https://ddd.uab.cat/record/168512?ln=en)
+Catalan Institute of Nanoscience and Nanotechnology, Autonomous University of Barcelona, Spain \
+[*Array of microfluidic beam resonators for mass sensing applications : design, fabrication and testing*](https://ddd.uab.cat/record/168512?ln=en)
 
 - **M.S. in Electrical Engineering (2008-2010)**  
-Center for Research and Advanced Studies of the National Polytechnic Institute (CINVESTAV-IPN), Mexico 
+Center for Research and Advanced Studies of the National Polytechnic Institute (CINVESTAV-IPN), Mexico \
+*Characterization of Thermal Lesions Induced by Ablation Treatments Using B-Mode Ultrasound Imaging*
 
 - **Student Exchange (Spring 2007)**  
 West Virginia University, Morgantown, WV  
 Courses: Digital Image Processing, Antennas, Information Theory, Neuromorphic Analog VLSI 
 
 - **B.S. in Communications and Electronics Engineering (2002-2008)**  
-University of Guanajuato, Mexico 
+University of Guanajuato, Mexico \
+*Design and Development of a USB-Based Brain Computer Interface for Sensorimotor Signal Analysis*
 
 ---
 # **Certifications** :material-certificate-outline:
@@ -64,8 +69,10 @@ University of Guanajuato, Mexico
 ---
 # **Open Source Contributions** :fontawesome-solid-hands-helping:
 
+- **nf-core/proteinfold** \
+This [pipeline](https://nf-co.re/proteinfold/2.0.0) automates the prediction of 3D protein structures from sequence data, integrating methods such as AlphaFold, ColabFold, and ESMFold. My [contribution](https://github.com/nf-core/proteinfold/pull/560) integrated `.yaml` files for Boltz and Alphafold2 subprocesses. 
 - **TimeCopilot: the GenAI Forecasting Agent**  
-Supporting the [documentation](https://github.com/AzulGarza/timecopilot) of the project.
+Supported the [documentation](https://github.com/AzulGarza/timecopilot) of the project.
 - **Deploy Airbyte on Azure | Airbyte**  
 Created a [guide to deploying Airbyte on a Microsoft Azure VM](https://github.com/airbytehq/airbyte/pull/18331).
 - **WizelineLabs | Wizeline**  
